@@ -1,0 +1,19 @@
+DevOps Learning Notes
+=====================
+
+Commands Used Today:
+- ssh -i key.pem ubuntu@IP  (Connect to EC2)
+- mkdir Docker              (Create directory)
+- cd Docker                 (Change directory)
+- pwd                       (Print working directory)
+- git init                  (Initialize git repository)
+
+Docker Concepts:
+- Containers vs Virtual Machines
+- Docker images are like blueprints
+- Containers are running instances
+
+Next Steps:
+- Build and run Docker container
+- Learn Docker commands (docker build, docker run)
+- Push images to Docker Hub
