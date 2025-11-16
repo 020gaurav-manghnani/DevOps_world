@@ -12,7 +12,7 @@ November 16, 2025
 ## Commands Used
 
 docker build .
-docker run -p 8000:8000 -it 572f70c4b504
+docker run -p 8000:8000 -it "instance id"
 docker ps
 
 ## What I Learned
@@ -20,5 +20,4 @@ docker ps
 - `-p 8000:8000` maps ports (EC2:Container)
 - Security groups control incoming traffic
 
-## Result
-Django app running at http://3.23.64.36:8000/demo/
+
